@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../assets/css/style.css">
     <title>Ivana Decoraciones</title>
 </head>
-<body>
+<body id="voler-navbar">
     <!-- Navbar  -->
     <?php require '../views/includes/navbar.php'; ?>
     <!-- Fin Navbar -->

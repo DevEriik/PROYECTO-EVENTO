@@ -8,9 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg style="background-color: var(--color-light);">
+    <nav class="navbar navbar-expand-lg fixed-top" style="background-color: var(--color-light);">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#"><img src="../assets/img/logo/1.png" alt="logo" class="logo-nav"></a>
+    <a class="navbar-brand" href="#voler-navbar"><img src="../assets/img/logo/1.png" alt="logo" class="logo-nav"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
