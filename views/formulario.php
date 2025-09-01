@@ -41,7 +41,7 @@
         const textoCodificado = encodeURIComponent(texto);
 
         // 4. Construir la URL de WhatsApp
-        const telefono = '+542984781034'; // ¡Reemplaza con tu número de teléfono!
+        const telefono = '+542984527814'; // ¡Reemplaza con tu número de teléfono!
         const urlWhatsapp = `https://wa.me/${telefono}?text=${textoCodificado}`;
 
         // 5. Abrir WhatsApp en una nueva pestaña
