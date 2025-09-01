@@ -18,11 +18,11 @@
     <div class="collapse navbar-collapse justify-content-center align-items-center" id="navbarNavAltMarkup">
 
       <div class="navbar-nav">
-            <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+            <a class="nav-link active" aria-current="page" href="#info">Servicio</a>
 
-            <a class="nav-link active" aria-current="page" href="#">Galeria</a>
+            <a class="nav-link active" aria-current="page" href="#galeria">Galeria</a>
 
-            <a class="nav-link active" aria-current="page" href="#">Contacto</a>
+            <a class="nav-link active" aria-current="page" href="#whatsapp-form">Contacto</a>
       </div>
     </div>
 

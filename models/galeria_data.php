@@ -56,5 +56,61 @@ $galeria_images = [
         'alt' => 'Centro de mesa con un jarrón de vidrio azul iluminado y flores, al lado de un sillón estilo princesa, con cortinas azules con luces en el fondo.',
         'title' => 'Inspiración de Princesa',
         'description' => 'Un diseño de fantasía con una mesa que parece salida de un cuento, perfecta para eventos temáticos.'
+    ], 
+    [
+        'id' => 9,
+        'url' => '../assets/img/galery/rugliano-beish-rosa-boda-fondo.jpeg',
+        'alt' => 'Amplio salón con techo de madera y cortinas beige, mesas decoradas con manteles blancos y lazos rosas, y sillas con lazos dorados.',
+        'title' => 'Elegancia Rústica',
+        'description' => 'Un ambiente rústico con toques modernos. Las cortinas de ensueño y los lazos en las sillas crean un entorno perfecto para tu evento.'
+    ],
+    [
+        'id' => 10,
+        'url' => '../assets/img/galery/jubilados-sillon-princesa.jpeg',
+        'alt' => 'Sillón de estilo princesa en una mesa principal con un fondo oscuro y un letrero que dice "Mica" en el frente. El fondo está decorado con luces azules.',
+        'title' => 'Trono de Princesa',
+        'description' => 'Un sillón principal que añade un toque de realeza a cualquier evento, iluminado con luces que reflejan la magia del momento.'
+    ],
+    [
+        'id' => 11,
+        'url' => '../assets/img/galery/rugliano-beish-rosa-boda.jpeg',
+        'alt' => 'Interior de un salón con mesas redondas, cortinas de luces blancas y telas rosadas y beige. Las sillas están decoradas con lazos dorados y rosas.',
+        'title' => 'Momentos Mágicos',
+        'description' => 'Una decoración de ensueño con cortinas de luces que crean un ambiente cálido y acogedor para tus invitados.'
+    ],
+    [
+        'id' => 12,
+        'url' => '../assets/img/galery/paneles-felizcumple.jpeg',
+        'alt' => 'Mesa de postres con una torta de tres pisos y un cartel de neón con la frase "Feliz Cumple". El fondo está decorado con mariposas de madera y globos azules.',
+        'title' => 'Feliz Cumpleaños',
+        'description' => 'Celebra con estilo. Una decoración vibrante con paneles decorativos, globos y un letrero luminoso que captura la alegría de la ocasión.'
+    ],
+    [
+        'id' => 13,
+        'url' => '../assets/img/galery/jubilados-mesas-lampara.jpeg',
+        'alt' => 'Salón de eventos decorado con mesas redondas. El techo tiene lámparas colgantes y lazos azules y blancos, y cada mesa tiene centros con ramas y luces.',
+        'title' => 'Noche de Fiesta',
+        'description' => 'Una iluminación moderna que transforma el salón. Los lazos de tela y los centros de mesa crean un ambiente de celebración inolvidable.'
+    ],
+    [
+        'id' => 14,
+        'url' => '../assets/img/galery/jubilados-entada-azul.jpeg',
+        'alt' => 'Vista a un salón a través de cortinas azules, donde se ven mesas preparadas, un escenario con luces y el equipo de decoración terminando los preparativos.',
+        'title' => 'Preparativos Finales',
+        'description' => 'El momento antes de que empiece la magia. La vista a través de las cortinas revela un ambiente lleno de emoción y detalles listos para la fiesta.'
+    ],
+    [
+        'id' => 15,
+        'url' => '../assets/img/galery/rugliano-afuera-altar.jpeg',
+        'alt' => 'Un altar para boda al aire libre con un camino de alfombra roja. A los lados, sillas con lazos dorados y carteles de bienvenida y un pasillo en medio de la naturaleza.',
+        'title' => 'Boda al Aire Libre',
+        'description' => 'La ceremonia perfecta en un entorno natural. El camino de alfombra roja y el altar te invitan a vivir una historia de amor inolvidable.'
+    ],
+    [
+        'id' => 16,
+        'url' => '../assets/img/galery/jubilados-fotos-paneles-globos.jpeg',
+        'alt' => 'Sillón blanco con un fondo de paneles de lentejuelas y un cartel de neón que dice "Feliz Cumple". A los lados hay arcos de globos azules, plateados y blancos.',
+        'title' => 'Rincón de Fotos',
+        'description' => 'Un espacio vibrante y lleno de brillo para que tus invitados tomen las mejores fotos y se lleven un recuerdo especial.'
     ]
 ];

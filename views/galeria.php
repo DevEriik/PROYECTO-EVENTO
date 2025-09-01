@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="../assets/css/style.css">
 
-<section class="container my-5">
+<section class="container my-5" id="galeria">
     <div class="row text-center">
         <h2 class="mb-4">Nuestra Galería de Eventos</h2>
     </div>
@@ -22,14 +22,15 @@
             </div>
 
             <div class="modal fade" id="imageModal_<?php echo $image['id']; ?>" tabindex="-1" aria-labelledby="imageModalLabel_<?php echo $image['id']; ?>" aria-hidden="true">
-                <div class="modal-dialog modal-lg">
+                <div class="modal-dialog modal-md">
                     <div class="modal-content">
                         <div class="modal-header">
                             <h5 class="modal-title" id="imageModalLabel_<?php echo $image['id']; ?>"><?php echo $image['title']; ?></h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body text-center">
-                            <img src="<?php echo $image['url']; ?>" class="img-fluid" alt="<?php echo $image['alt']; ?>">
+                            <img src="<?php echo $image['url']; ?>" class="img-fluid" style="max-height: 70vh;
+                            width: auto;" alt="<?php echo $image['alt']; ?>">
                             <p class="mt-3"><?php echo $image['description']; ?></p>
                         </div>
                         <div class="modal-footer">
