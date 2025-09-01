@@ -1,0 +1,21 @@
+:root {
+  --color-primary: #e4a1a5; /* El color rosa del logo */
+  --color-dark: #2f2e30; /* El color de la fuente del logo */
+  --color-light: #f7f7f7; /* Un gris claro para fondos */
+}
+
+.btn-personalizado {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+  color: #fff; /* Texto blanco para el botón */
+}
+
+.btn-personalizado:hover {
+  background-color: #d19498; /* Un color un poco más oscuro para el efecto al pasar el mouse */
+  border-color: #d19498;
+}
+
+.logo-nav {
+  height: 45px;
+  width: auto;
+}
